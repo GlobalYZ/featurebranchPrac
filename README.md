@@ -9,3 +9,7 @@ func1
 func2
 
 new changes in main
+
+new changes in feature
+fun1
+fun2
